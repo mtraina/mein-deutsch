@@ -19,16 +19,6 @@
 | Danke           | thank you |
 
 
-| Fragen                        | Questions             |
-| --------                      | -------               |
-| Wie geht's? Wie geht es dir?  | How are you?          |
-| Wie geht es Ihnen?            | How are you? (formal) |
-| Wohin geht's du?              | Where are you going?  |
-| Wo bist du?                   | Where are you?        |
-| Was ist das?                  | What is this?         |
-| Wann kommst du?               | When you'll come?     |
-
-
 | Sätze           | Sentences     |
 | --------        | -------       |
 | good morning    | guten Morgen  |
