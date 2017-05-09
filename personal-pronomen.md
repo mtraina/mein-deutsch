@@ -1,0 +1,11 @@
+| Nominativ | Akkusativ | Dativ | Genitiv     |
+| --------- | --------- | ----- | ----------- |
+| ich       | mich      | mir   | mein(e/er)  |
+| du        | dich      | dir   | dein(e/er)  |
+| er        | ihn       | ihm   | sein(e/er)  |
+| sie       | sie       | ihr   | ihr(e/er)   |
+| es        | es        | ihm   | sein(e/er)  |
+| wir       | uns       | uns   | unser(e/er) |
+| ihr       | euch      | euch  | euer(e/er)  |
+| sie       | sie       | ihnen | ihr(e/er)   |
+| Sie       | Sie       | Ihnen | Ihr(e/er)   |
